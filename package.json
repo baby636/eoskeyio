@@ -16,7 +16,7 @@
     "vue-i18n": "^7.7.0"
   },
   "devDependencies": {
-    "autoprefixer": "^8.5.1",
+    "autoprefixer": "^10.0.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
@@ -27,7 +27,7 @@
     "electron-packager": "11.1.0",
     "electron-winstaller": "^2.6.4",
     "prettier": "^1.12.1",
-    "quasar-cli": "^0.15.14"
+    "quasar-cli": "^0.17.0"
   },
   "engines": {
     "node": ">= 8.9.0",
